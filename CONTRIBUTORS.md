@@ -46,7 +46,7 @@ The following is a far from complete list of some of the individuals who
 have provided inspiration for the creation of Sonic Pi through their own
 projects:
 
-* _why (why the lucky stiff) - [Shoes](https://en.wikipedia.org/wiki/Shoes_(GUI_toolkit))
+* \_why (why the lucky stiff) - [Shoes](https://en.wikipedia.org/wiki/Shoes_(GUI_toolkit))
 * Andrew Sorensen  - [Extempore](https://extemporelang.github.io/)
 * James McCartney - [SuperCollider](https://supercollider.github.io)
 * Jeff Rose - [Overtone](https://overtone.github.io/)
@@ -588,7 +588,7 @@ The following volunteers have generously helped to translate Sonic Pi into addit
 * Sune Sylvest Nilausen (3)
 * Thomas G. Kristensen (3)
 * Volkan Bakir (3)
-* _eternal_flame (3)
+* \_eternal\_flame (3)
 * fossdd (3)
 * psyk10p (3)
 * threewater2 (3)

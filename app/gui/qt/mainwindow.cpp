@@ -1,7 +1,7 @@
 //--
 // This file is part of Sonic Pi: http://sonic-pi.net
-// Full project source: https://github.com/samaaron/sonic-pi
-// License: https://github.com/samaaron/sonic-pi/blob/main/LICENSE.md
+// Full project source: https://github.com/sonic-pi-net/sonic-pi
+// License: https://github.com/sonic-pi-net/sonic-pi/blob/main/LICENSE.md
 //
 // Copyright 2013, 2014, 2015, 2016 by Sam Aaron (http://sam.aaron.name).
 // All rights reserved.
@@ -1341,7 +1341,7 @@ void MainWindow::startupError(QString msg)
     str << tr("Apologies, a critical error occurred during startup:\n")
         << msg << "\n\n"
         << tr("Please consider reporting a bug at")
-        << "\nhttp://github.com/samaaron/sonic-pi/issues\n"
+        << "\nhttp://github.com/sonic-pi-net/sonic-pi/issues\n"
         << "\n"
         << "Sonic Pi Boot Error Report\n"
         << "==========================\n"

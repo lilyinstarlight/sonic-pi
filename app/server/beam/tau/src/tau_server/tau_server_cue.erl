@@ -1,8 +1,8 @@
 %% Sonic Pi OSC cue server process
 %% --
 %% This file is part of Sonic Pi: http://sonic-pi.net
-%% Full project source: https://github.com/samaaron/sonic-pi
-%% License: https://github.com/samaaron/sonic-pi/blob/main/LICENSE.md
+%% Full project source: https://github.com/sonic-pi-net/sonic-pi
+%% License: https://github.com/sonic-pi-net/sonic-pi/blob/main/LICENSE.md
 %%
 %% Copyright 2016,2017 by Joe Armstrong (http://joearms.github.io/)
 %% All rights reserved.

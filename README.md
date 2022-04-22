@@ -56,7 +56,7 @@ domains is the objective.
 
 ## Contributors
 
-Sonic Pi has been developed with support from many individuals and organisations. Please see the [CONTRIBUTORS.md](https://github.com/samaaron/sonic-pi/blob/main/CONTRIBUTORS.md) file for a more complete list.
+Sonic Pi has been developed with support from many individuals and organisations. Please see the [CONTRIBUTORS.md](https://github.com/sonic-pi-net/sonic-pi/blob/main/CONTRIBUTORS.md) file for a more complete list.
 
 ## Translations
 
@@ -83,7 +83,7 @@ Status                                                                          
 [![Translation Status of Sonic Pi: si](https://hosted.weblate.org/widgets/sonic-pi/si/svg-badge.svg)](https://hosted.weblate.org/engage/sonic-pi/)           | sinhalese           | :white_check_mark: | :red_circle:
 [![Translation Status of Sonic Pi: tr_TR](https://hosted.weblate.org/widgets/sonic-pi/tr_TR/svg-badge.svg)](https://hosted.weblate.org/engage/sonic-pi/) | Turkish             | :white_check_mark: | :red_circle:
 
-Would you like to contribute a translation too? If so, please take a look at our [translation docs](https://github.com/samaaron/sonic-pi/blob/main/TRANSLATION.md) to get started.
+Would you like to contribute a translation too? If so, please take a look at our [translation docs](https://github.com/sonic-pi-net/sonic-pi/blob/main/TRANSLATION.md) to get started.
 
 ## Information for developers
 
@@ -103,5 +103,5 @@ Sonic Pi is under active development, and welcomes new contributors:
 
 [![Weblate](https://hosted.weblate.org/widgets/sonic-pi/-/svg-badge.svg)](https://hosted.weblate.org/engage/sonic-pi/)
 <br/>
-[![Travis CI](https://travis-ci.org/samaaron/sonic-pi.svg?branch=main)](https://travis-ci.org/samaaron/sonic-pi)
+[![Build](https://github.com/sonic-pi-net/sonic-pi/actions/workflows/build.yml/badge.svg)](https://github.com/sonic-pi-net/sonic-pi/actions/workflows/build.yml)
 <br/> 

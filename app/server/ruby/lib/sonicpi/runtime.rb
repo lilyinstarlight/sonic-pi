@@ -1,7 +1,7 @@
 #--
 # This file is part of Sonic Pi: http://sonic-pi.net
-# Full project source: https://github.com/samaaron/sonic-pi
-# License: https://github.com/samaaron/sonic-pi/blob/main/LICENSE.md
+# Full project source: https://github.com/sonic-pi-net/sonic-pi
+# License: https://github.com/sonic-pi-net/sonic-pi/blob/main/LICENSE.md
 #
 # Copyright 2013, 2014, 2015, 2016 by Sam Aaron (http://sam.aaron.name).
 # All rights reserved.
@@ -1313,7 +1313,7 @@ module SonicPi
       # Fix issue with the beautifier not being able to distinguish
       # / as the start of a regex or as the division operator when
       # positioned immediately after a ) or ]
-      # See https://github.com/samaaron/sonic-pi/issues/2435
+      # See https://github.com/sonic-pi-net/sonic-pi/issues/2435
       source = source.gsub(/\)\//, ') ___SONIC_PI_RND_TMP_PLACEHOLDER___ /')
       source = source.gsub(/]\//, '] ___SONIC_PI_SQR_TMP_PLACEHOLDER___ /')
       res = RBeautify.beautify_string :ruby, source

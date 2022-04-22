@@ -2,8 +2,8 @@
 %% corresponding absolute times
 %% --
 %% This file is part of Sonic Pi: http://sonic-pi.net
-%% Full project source: https://github.com/samaaron/sonic-pi
-%% License: https://github.com/samaaron/sonic-pi/blob/main/LICENSE.md
+%% Full project source: https://github.com/sonic-pi-net/sonic-pi
+%% License: https://github.com/sonic-pi-net/sonic-pi/blob/main/LICENSE.md
 %% ++
 
 -module(tau_server_tracker).

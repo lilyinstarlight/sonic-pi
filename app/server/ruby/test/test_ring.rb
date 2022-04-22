@@ -1,7 +1,7 @@
 #--
 # This file is part of Sonic Pi: http://sonic-pi.net
-# Full project source: https://github.com/samaaron/sonic-pi
-# License: https://github.com/samaaron/sonic-pi/blob/main/LICENSE.md
+# Full project source: https://github.com/sonic-pi-net/sonic-pi
+# License: https://github.com/sonic-pi-net/sonic-pi/blob/main/LICENSE.md
 #
 # Copyright 2013, 2014, 2015, 2016 by Sam Aaron (http://sam.aaron.name).
 # All rights reserved.
@@ -123,7 +123,7 @@ module SonicPi
     end
 
     def test_spread
-      # Tests extracted from https://github.com/samaaron/sonic-pi/issues/1593
+      # Tests extracted from https://github.com/sonic-pi-net/sonic-pi/issues/1593
       assert_spread(1, 2, "x.")
       assert_spread(1, 3, "x..")
       assert_spread(1, 4, "x...")

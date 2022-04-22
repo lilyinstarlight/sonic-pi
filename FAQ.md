@@ -8,7 +8,7 @@ Most likely, you will find a helpful error message there.
 
 ## Windows: Server boot error - Can't open UDP port 4558
 
-This problem was reported on Windows machines in Sonic Pi v. 2.7. It was reported in following issues: [#699](https://github.com/samaaron/sonic-pi/issues/699), [#702](https://github.com/samaaron/sonic-pi/issues/702), [#720](https://github.com/samaaron/sonic-pi/issues/720). Occurred on Windows 7, Windows 8.1 & Windows 10.
+This problem was reported on Windows machines in Sonic Pi v. 2.7. It was reported in following issues: [#699](https://github.com/sonic-pi-net/sonic-pi/issues/699), [#702](https://github.com/sonic-pi-net/sonic-pi/issues/702), [#720](https://github.com/sonic-pi-net/sonic-pi/issues/720). Occurred on Windows 7, Windows 8.1 & Windows 10.
 
 *Workaround solution:*
 
@@ -22,12 +22,12 @@ scsynth.exe
 You can also check in Task Manager that there is no application entry sonic-pi.exe  
 and quit it if there is.
 
-## Linux: There is no sound with use_synth :piano
+## Linux: There is no sound with use\_synth :piano
 
 You probably didn't install the SC3 plugins
 package for SuperCollider on your system. If there
 is no binary package provided by your distribution, you can
-[install it from source](https://github.com/samaaron/sonic-pi/blob/main/INSTALL-LINUX.md#supercollider-sc3-plugins).
+[install it from source](https://github.com/sonic-pi-net/sonic-pi/blob/main/INSTALL-LINUX.md#supercollider-sc3-plugins).
 
 ## Linux: Trouble with JACK
 
@@ -50,7 +50,7 @@ As a workaround, try this:
 * once it started, start `sonic-pi` again
 
 Sonic Pi contributor @rbnpi has described a [working configuration to
-workaround problems starting JACK](https://github.com/samaaron/sonic-pi/issues/827#issuecomment-160928821).
+workaround problems starting JACK](https://github.com/sonic-pi-net/sonic-pi/issues/827#issuecomment-160928821).
 
 On Linux distributions using PulseAudio, starting JACK may interfere
 with the applications using sound that were running already, e.g.
